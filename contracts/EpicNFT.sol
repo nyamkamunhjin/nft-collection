@@ -19,7 +19,7 @@ contract EpicNFT is ERC721URIStorage {
 
 
 	string[] public firstWords = ["Faye", "Valentine", "Cowboy", "Bebop", "Spike", "Jet"];
-	string[] public secondWords = ["Quesadilla", "Chimichanga", "SweetPork", "Oatmeal", "Pizza", "YOUR_WORD"];
+	string[] public secondWords = ["Quesadilla", "Chimichanga", "SweetPork", "Oatmeal", "Pizza", "TonkatsuRamen"];
 	string[] public thirdWords = [" GM", "Dao", "Bzzz", "Eating", "Sleeping", "Nothing"];
 
   // We need to pass the name of our NFTs token and it's symbol.
